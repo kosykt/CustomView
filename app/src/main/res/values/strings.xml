@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="negative_btn">Negative</string>
+    <string name="positive_btn">Positive</string>
+</resources>
